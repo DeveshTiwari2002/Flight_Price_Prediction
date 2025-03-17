@@ -20,7 +20,6 @@ I have build an ML model that predicts flight ticket prices based on various ind
 
 - Size of training set: 10683 records
 - Size of test set: 2671 records
-- Link of the dataset:- https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
 ### Conclusion
 
